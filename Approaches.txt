@@ -1,0 +1,6 @@
+1. Chatgpt showed right approach but did the calculations wrong. Re-did it myself to come to the answer.
+2. Saw the frames and video multiple times. Compared the video with that of youtube. Learnt things like rickrolling, even understood morse code. Finally found the answer in the Properties comment. 
+4. ELF format can be easily be viewed in Linux or Kali Linux, unable to do it in Windows. CTF{} was present inside the file. Did a lot of research WLF, many softwares to view elf. But the file got download simply as file in windows, not as elf so....
+
+Tried others was able be find maybe the last one, not sure though, is a linaer equation with modulus division by 128.
+with  answer as "The secret to creativity is knowing how to hide your sources."
